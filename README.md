@@ -30,12 +30,10 @@ Here performance boost is measured on fast-algo vs. native-algo for the same num
 | Fast-Algo (Plane) | 10,000 | 0.011 sec   | 84X       |
 | Naive-Algo (Haversine) | 10,000 | 5.44 sec | 1X          |
 | Fast-Algo (Haversine) | 10,000 | 0.045 sec   | 121X       |
-
 | Naive-Algo (Plane) | 50,000 | 22.11 sec | 1X          |
 | Fast-Algo (Plane)  | 50,000 | 0.055 sec   | 404X       |
 | Naive-Algo (Haversine) | 50,000 | 128 sec | 1X          |
 | Fast-Algo (Haversine)  | 50,000 | 0.21 sec   | 609X       |
-
 | Naive-Algo (Plane) | 100,000 | 89 sec | 1X        |
 | Fast-Algo (Plane)  | 100,000 | 0.11 sec   | 798X       |
 | Naive-Algo (Haversine) | 100,000 | 503 sec | 1X       |
